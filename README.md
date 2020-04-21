@@ -2,6 +2,5 @@
 
 ## Description
 
-### This application uses express to save and add star wars characters to a database.
-
+### We built this application in class as an example for how to use express and how to deploy to Heroku. 
 
