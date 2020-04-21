@@ -6,4 +6,4 @@
 
 ## Screenshots
 
-<img src='/
+<img src='./images/Capture.PNG'>
